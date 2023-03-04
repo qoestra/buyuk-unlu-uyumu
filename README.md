@@ -1,8 +1,7 @@
 # Büyük Ünlü Uyumu Kontrol Eden Kod.
 
-Çalıştırmak için komut istemini klasöred açıp "python uyum.py" yazın. 
+Çalıştırmak için:
 
-Kelimeyi Girin.
+1- .zip dosyasını klasöre çıkartın.
 
-
-by QoestrA
+2-
