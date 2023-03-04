@@ -10,3 +10,7 @@
 4- Açılan pencereye "python uyum.py" yazın.
 
 5- Kelimeyi girin.
+
+
+
+QoestrA...
