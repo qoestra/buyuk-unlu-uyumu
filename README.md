@@ -11,6 +11,3 @@
 
 5- Kelimeyi girin.
 
-
-
-QoestrA...
