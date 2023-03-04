@@ -1,1 +1,1 @@
-#Büyük Ünlü Uyumu Kontrol Eden Kod.
+# Büyük Ünlü Uyumu Kontrol Eden Kod.
